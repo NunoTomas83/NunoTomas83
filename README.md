@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hello all! 👋
 
 <!--
 **NunoTomas83/NunoTomas83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -14,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+My name is Nuno Tomás and I am a Computer Engineer, living in Loulé, Algarve, Portugal.
+
+After graduating in early 2019, I have professionally focusing in the functional and security testing field, performing exploratory testing, writing bug reports and executing test cases for several different companies which required testing in various types of software applications.
+
+My programming capabilities include Python and Java! I also love automation and cybersecurity 😄
+
