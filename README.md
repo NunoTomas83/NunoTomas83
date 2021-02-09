@@ -21,5 +21,5 @@ My name is Nuno Tomás and I am a Computer Engineer, living in Loulé, Algarve, 
 
 After graduating in early 2019, I have professionally focusing in the functional and security testing field, performing exploratory testing, writing bug reports and executing test cases for several different companies which required testing in various types of software applications.
 
-My programming capabilities include Python and Java! I also love automation and cybersecurity 😄
+My programming capabilities include mainly python and java (and some html and js), but I am always i++ new knowledge! I also love automation and cybersecurity 😄
 
